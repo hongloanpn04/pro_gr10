@@ -1,15 +1,15 @@
-INT01|CTDL|3|1
-INT02|LTTT|3|1
-INT03|CSDL|3|1
-INT04|OOP|3|1
-INT05|HDH|3|1
-INT06|MMT|3|1
-INT07|TTNT|3|1
-INT08|PTTKHT|3|1
-INT09|KTLT|3|1
-INT10|JAVA|3|1
-INT11|PYTHON|3|1
-INT12|WEB|3|1
-INT13|AI|3|1
-INT14|BIGDATA|3|1
-INT15|CLOUD|3|1
+AIP13|Tri tue nhan tao nang cao|3|1
+BDT14|Toan roi rac|3|1
+CLD15|Dien toan dam may|3|1
+INT01|Cau truc du lieu |0|1
+INT02|Ly thuyet thong tin|3|1
+INT03|Co so du lieu|3|1
+INT04|Lap trinh huong doi tuong|3|1
+INT05|He dieu hanh|3|1
+INT06|Mang may tinh|3|1
+INT07|Tri tue nhan tao|3|1
+INT08|Thiet ke he thong|3|1
+INT09|Ky thuat lap trinh|3|1
+INT10|Lap trinh Java|3|1
+ITE11|Lap trinh Python|3|1
+ITE12|Lap trinh Web|3|1
